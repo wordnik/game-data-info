@@ -1,2774 +1,2774 @@
 [
 	{
-		"date": "2018-05-28T23:44:43+00:00"
-		"entry": "N1LEYg4VCtx"
+		"date": "2018-05-28T23:44:43+00:00",
+		"entry": "N1LEYg4VCtx",
 		"change": "removed inconsequential definitions"
 	},
 	{
-		"date": "2018-05-28T23:44:43+00:00"
-		"entry": "VJh7v97VAKe"
+		"date": "2018-05-28T23:44:43+00:00",
+		"entry": "VJh7v97VAKe",
 		"change": "removed parenthetical etymology"
 	},
 	{
-		"date": "2018-05-28T23:44:43+00:00"
-		"entry": "41Qj9mEAFe"
+		"date": "2018-05-28T23:44:43+00:00",
+		"entry": "41Qj9mEAFe",
 		"change": "shortened definition"
 	},
 	{
-		"date": "2018-05-28T23:44:43+00:00"
-		"entry": "4yvIomQ4RKl"
+		"date": "2018-05-28T23:44:43+00:00",
+		"entry": "4yvIomQ4RKl",
 		"change": "changed fullwidth semicolon to standard semicolon"
 	},
 	{
-		"date": "2018-05-28T23:44:43+00:00"
-		"entry": "Vyoexz4XVRtx"
+		"date": "2018-05-28T23:44:43+00:00",
+		"entry": "Vyoexz4XVRtx",
 		"change": "changed fullwidth semicolon to standard semicolon"
 	},
 	{
-		"date": "2018-05-28T23:44:43+00:00"
-		"entry": "VyQeotXN0Yx"
+		"date": "2018-05-28T23:44:43+00:00",
+		"entry": "VyQeotXN0Yx",
 		"change": "shortened definition"
 	},
 	{
-		"date": "2018-05-28T23:44:43+00:00"
-		"entry": "VyXenaWrCax"
+		"date": "2018-05-28T23:44:43+00:00",
+		"entry": "VyXenaWrCax",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-28T23:44:43+00:00"
-		"entry": "41k7G_XE0Yl"
+		"date": "2018-05-28T23:44:43+00:00",
+		"entry": "41k7G_XE0Yl",
 		"change": "changed definition & source"
 	},
 	{
-		"date": "2018-05-28T23:44:43+00:00"
-		"entry": "41_UW3X4Atx"
+		"date": "2018-05-28T23:44:43+00:00",
+		"entry": "41_UW3X4Atx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-28T23:44:43+00:00"
-		"entry": "EkQhxnXV0tl"
+		"date": "2018-05-28T23:44:43+00:00",
+		"entry": "EkQhxnXV0tl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-28T23:44:43+00:00"
-		"entry": "4k5JegCmN0te"
+		"date": "2018-05-28T23:44:43+00:00",
+		"entry": "4k5JegCmN0te",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-28T23:44:43+00:00"
-		"entry": "VkuVUtQV0Fl"
+		"date": "2018-05-28T23:44:43+00:00",
+		"entry": "VkuVUtQV0Fl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-28T23:44:43+00:00"
-		"entry": "E1Sl5Pm40Yl"
+		"date": "2018-05-28T23:44:43+00:00",
+		"entry": "E1Sl5Pm40Yl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-28T23:44:43+00:00"
-		"entry": "V1MZh7Oq0pl"
+		"date": "2018-05-28T23:44:43+00:00",
+		"entry": "V1MZh7Oq0pl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-28T23:44:43+00:00"
-		"entry": "4y-bp0hcRag"
+		"date": "2018-05-28T23:44:43+00:00",
+		"entry": "4y-bp0hcRag",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-28T23:44:43+00:00"
-		"entry": "4yV0Z1NERtx"
+		"date": "2018-05-28T23:44:43+00:00",
+		"entry": "4yV0Z1NERtx",
 		"change": "removed extraneous definitions"
 	},
 	{
-		"date": "2018-05-28T23:44:43+00:00"
-		"entry": "EyWubXE4AFg"
+		"date": "2018-05-28T23:44:43+00:00",
+		"entry": "EyWubXE4AFg",
 		"change": "removed extraneous definition"
 	},
 	{
-		"date": "2018-05-28T23:44:43+00:00"
-		"entry": "HkahBpIXtW"
+		"date": "2018-05-28T23:44:43+00:00",
+		"entry": "HkahBpIXtW",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-28T23:44:43+00:00"
-		"entry": "Nys0QQEE0te"
+		"date": "2018-05-28T23:44:43+00:00",
+		"entry": "Nys0QQEE0te",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-28T23:44:43+00:00"
-		"entry": "NyhU13QEAFg"
+		"date": "2018-05-28T23:44:43+00:00",
+		"entry": "NyhU13QEAFg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "SyJUGxP7YW"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "SyJUGxP7YW",
 		"change": "removed extraneous information"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "NkcDMZNERYe"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "NkcDMZNERYe",
 		"change": "removed extraneous definitions"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "E13r_4VNAYe"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "E13r_4VNAYe",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "EJWbiPXVRKe"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "EJWbiPXVRKe",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "VJqOBtQVAtx"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "VJqOBtQVAtx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "VJyxaiZSC6e"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "VJyxaiZSC6e",
 		"change": "removed extraneous definitions"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "r1quD_LmYW"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "r1quD_LmYW",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "EJOWgrEVAtg"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "EJOWgrEVAtg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "EJRbwE7NRtg"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "EJRbwE7NRtg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "E1rASX44CYl"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "E1rASX44CYl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "NkoobrApe"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "NkoobrApe",
 		"change": "added xref"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "Hy7vUYzssM"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "Hy7vUYzssM",
 		"change": "removed invisible character"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "NyzzNR35CTx"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "NyzzNR35CTx",
 		"change": "removed extraneous text"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "Hk45UYHQFW"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "Hk45UYHQFW",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "SJLTaoHQKb"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "SJLTaoHQKb",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "NyLukw7E0Ke"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "NyLukw7E0Ke",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "N1FUrd7NRtg"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "N1FUrd7NRtg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "VJ1MtnXV0Yg"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "VJ1MtnXV0Yg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "4ymDnX7NCKl"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "4ymDnX7NCKl",
 		"change": "edited definitions"
-	}
+	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "S1Gz1pTOM"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "S1Gz1pTOM",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "BybtxS6BXY-"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "BybtxS6BXY-",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "rJfQLTrQKb"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "rJfQLTrQKb",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "415ISOX4Cte"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "415ISOX4Cte",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "rJV4eSJImFZ"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "rJV4eSJImFZ",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "SkJzV78mYW"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "SkJzV78mYW",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "NktYx9m4AYl"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "NktYx9m4AYl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "NkF-sNIHCTx"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "NkF-sNIHCTx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "E1-1h74CFe"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "E1-1h74CFe",
 		"change": "edited definition; added xref"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "VJlNo-pGdCTx"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "VJlNo-pGdCTx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "41RmxV40Kl"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "41RmxV40Kl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "B1_B247YW"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "B1_B247YW",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "EySJeVV74CKg"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "EySJeVV74CKg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "EySUINX4AFx"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "EySUINX4AFx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "VyJ-lxU74Rtg"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "VyJ-lxU74Rtg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "E1mMWU74AFx"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "E1mMWU74AFx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "HyxX3Kfjsf"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "HyxX3Kfjsf",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "4JyhDnQV0tg"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "4JyhDnQV0tg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "Vy0ylxmV4CFl"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "Vy0ylxmV4CFl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "E1kulXENRFx"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "E1kulXENRFx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "VyKpFmNNCtx"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "VyKpFmNNCtx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "NyocqmNN0tl"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "NyocqmNN0tl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "41HmgxEEVCtl"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "41HmgxEEVCtl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "Vy0KHVEECFe"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "Vy0KHVEECFe",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "V1vebJzHA6x"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "V1vebJzHA6x",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "N1-_kS4VCtl"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "N1-_kS4VCtl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "Eyla7SEVAFl"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "Eyla7SEVAFl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "4JUorrEECte"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "4JUorrEECte",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "V1z_zpGORTe"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "V1z_zpGORTe",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "41y3cwXVAKe"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "41y3cwXVAKe",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "H143ETHQK-"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "H143ETHQK-",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "S1-xlLPLG"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "S1-xlLPLG",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "V1PZwdQVAYl"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "V1PZwdQVAYl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "B1CNNJ8Qtb"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "B1CNNJ8Qtb",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "S1ZwJUmF-"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "S1ZwJUmF-",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "Hk07Ky87tW"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "Hk07Ky87tW",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "V1dgzEu5CTl"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "V1dgzEu5CTl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "BkF6yU7KW"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "BkF6yU7KW",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "EJjdJFXECKx"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "EJjdJFXECKx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "N1GWJ9Sr0ax"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "N1GWJ9Sr0ax",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "Ekg-vD7ECtx"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "Ekg-vD7ECtx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "41zW9rrCag"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "41zW9rrCag",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "EJaJeKvQE0Yg"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "EJaJeKvQE0Yg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "VJWj5QVCYx"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "VJWj5QVCYx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "HynngLvUG"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "HynngLvUG",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "4kjDT5QVRFx"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "4kjDT5QVRFx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "NJeWA5XEAFe"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "NJeWA5XEAFe",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "rJCiQ7L7FZ"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "rJCiQ7L7FZ",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "NJ2_ejmNCFe"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "NJ2_ejmNCFe",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "N1zyehKmVRYl"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "N1zyehKmVRYl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "NkKg2FQ4Ctg"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "NkKg2FQ4Ctg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "E1F1ekcXE0Yg"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "E1F1ekcXE0Yg",
 		"change": "edited definitions"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "VyzRJ9QV0tx"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "VyzRJ9QV0tx",
 		"change": "edited definitions"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "Bkf9l8vIM"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "Bkf9l8vIM",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "NyyQl974Ctx"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "NyyQl974Ctx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "V1Rcx9m4Rtx"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "V1Rcx9m4Rtx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "4yTAWqX40Yx"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "4yTAWqX40Yx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "E1H9Ja5Cag"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "E1H9Ja5Cag",
 		"change": "edited definitions"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "Byxve648XFZ"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "Byxve648XFZ",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "V1VbzkNEAKl"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "V1VbzkNEAKl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "4JvAUy4N0Ke"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "4JvAUy4N0Ke",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "4kdNKyNVRtl"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "4kdNKyNVRtl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "ByldRnCb7G"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "ByldRnCb7G",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "N1CNomQVRKg"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "N1CNomQVRKg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "Ek8kejQmEAtx"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "Ek8kejQmEAtx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "NyxTn7XNAKx"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "NyxTn7XNAKx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "r16GQ2EQKb"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "r16GQ2EQKb",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "EkdPeVQ4AKe"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "EkdPeVQ4AKe",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "VyVG4X4Ctg"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "VyVG4X4Ctg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "Vk_GEE7NRFx"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "Vk_GEE7NRFx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "EJ4fFVQVAFl"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "EJ4fFVQVAFl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": ""
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "V1iEoE7EAFe"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "V1iEoE7EAFe",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "V1ymekBXNCYx"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "V1ymekBXNCYx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "SkFXf547YZ"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "SkFXf547YZ",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "4yRZBHXNAtg"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "4yRZBHXNAtg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "Sy1WEcN7YZ"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "Sy1WEcN7YZ",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "By2Hr94mKZ"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "By2Hr94mKZ",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "ryNDkR-7z"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "ryNDkR-7z",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "Nyy7PtXVCtx"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "Nyy7PtXVCtx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "EJoyxutXNAFx"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "EJoyxutXNAFx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "VkITv2XNAFg"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "VkITv2XNAFg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "BJPXGSI7KZ"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "BJPXGSI7KZ",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "4J6ygwhQ40Kx"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "4J6ygwhQ40Kx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "4y_lknbHCpg"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "4y_lknbHCpg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "Ek2L9hQNRtl"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "Ek2L9hQNRtl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "4y4l-6QNCtg"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "4y4l-6QNCtg",
 		"change": "removed extraneous definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "HyAH5AUQKb"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "HyAH5AUQKb",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "Nkyjb7NERKg"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "Nkyjb7NERKg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "ByZhFCLXKZ"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "ByZhFCLXKZ",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "V1gefX4N0Fx"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "V1gefX4N0Fx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "E1cu4mV40Fe"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "E1cu4mV40Fe",
 		"change": "removed extraneous definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "rkXxHkzQM"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "rkXxHkzQM",
 		"change": "removed extraneous definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "BklilBkfQG"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "BklilBkfQG",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "V1T2dm44Cte"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "V1T2dm44Cte",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "EkXZ3XV4RYe"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "EkXZ3XV4RYe",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "EJMYPVV4Rtl"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "EJMYPVV4Rtl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "VkfnoEVNRYx"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "VkfnoEVNRYx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "4yRL3NNE0Fe"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "4yRL3NNE0Fe",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "N15O3VE4RFe"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "N15O3VE4RFe",
 		"change": "edited/removed definitions"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "4yJ4xSENCYl"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "4yJ4xSENCYl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "4kBSIS4ERFl"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "4kBSIS4ERFl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "VJslqXAKl"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "VJslqXAKl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "VyxxjBNECKg"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "VyxxjBNECKg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "NyU6cHENCFe"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "NyU6cHENCFe",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "VJnEK9m4Ate"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "VJnEK9m4Ate",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "VkLL5vmVAYe"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "VkLL5vmVAYe",
 		"change": "removed extraneous definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "NyI6gumN0Kx"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "NyI6gumN0Kx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "rkT-ey2S7tW"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "rkT-ey2S7tW",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "HyXaf8soG"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "HyXaf8soG",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "41hb69mNCFg"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "41hb69mNCFg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "BJwazXUXFW"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "BJwazXUXFW",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "VksAAq74CFl"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "VksAAq74CFl",
 		"change": "edited definitions"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "4kQekomNAtl"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "4kQekomNAtl",
 		"change": "removed extraneous definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "V1jMoXECFe"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "V1jMoXECFe",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "rJhqKzjsM"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "rJhqKzjsM",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-29T23:44:43+00:00"
-		"entry": "415a9tX4AYg"
+		"date": "2018-05-29T23:44:43+00:00",
+		"entry": "415a9tX4AYg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "BJ7N5-IQY-"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "BJ7N5-IQY-",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "SkDn9WImKZ"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "SkDn9WImKZ",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4kPH-cXN0Kg"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4kPH-cXN0Kg",
 		"change": "edited definitions"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "VkJrG5Q4RKl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "VkJrG5Q4RKl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4y-No7mVAKe"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4y-No7mVAKe",
 		"change": "removed extraneous definitions"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "BklczIssM"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "BklczIssM",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "EJbxgaXmVCYg"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "EJbxgaXmVCYg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "rki7rhVXY-"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "rki7rhVXY-",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "Vyi_XN74RKl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "Vyi_XN74RKl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "N1PbpVm4CKe"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "N1PbpVm4CKe",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "EJ_uJSXNRKe"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "EJ_uJSXNRKe",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "EktbMBQEAFg"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "EktbMBQEAFg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "NJqdOrQ4AKx"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "NJqdOrQ4AKx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "Ny_he8XECYl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "Ny_he8XECYl",
 		"change": "removed extraneous definitions"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "H1elSHWLf6Hf"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "H1elSHWLf6Hf",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4JsOVtXE0Ye"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4JsOVtXE0Ye",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "N1Sa_nXN0Yl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "N1Sa_nXN0Yl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "E1xmJTXNAYg"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "E1xmJTXNAYg",
 		"change": "removed extraneous definitions"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "Eyqo-QNERtg"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "Eyqo-QNERtg",
 		"change": "removed extraneous definitions"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "EJdZ_7ENAYl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "EJdZ_7ENAYl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "NJiEjmV40Ke"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "NJiEjmV40Ke",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "H12LAkwXtb"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "H12LAkwXtb",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "N16eM4E4RYg"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "N16eM4E4RYg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4kQPDH4VAKe"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4kQPDH4VAKe",
 		"change": "edited definition, added xref"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "Hkcl5_MioG"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "Hkcl5_MioG",
 		"change": "removed definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "VyMxO1mVCKx"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "VyMxO1mVCKx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "V10pYxQERYl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "V10pYxQERYl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "ByWXwTDGKW"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "ByWXwTDGKW",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4JdOXGNNCte"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4JdOXGNNCte",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "EJoPDzV4CFg"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "EJoPDzV4CFg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "V1qZ6w_9Apx"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "V1qZ6w_9Apx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "EkSFuG4NAKg"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "EkSFuG4NAKg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "V14t7QN40te"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "V14t7QN40te",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "EyFeHX4ECtl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "EyFeHX4ECtl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "rkSe0CIQKW"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "rkSe0CIQKW",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "Ek_YdNNECYe"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "Ek_YdNNECYe",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "VyrhQHEVRFx"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "VyrhQHEVRFx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "VJCbe4BVVRYl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "VJCbe4BVVRYl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "VJCbe4BVVRYl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "VJCbe4BVVRYl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "V1LlkeXVAKe"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "V1LlkeXVAKe",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "Hkp0aPGKb"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "Hkp0aPGKb",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "Nkozdx74Rtx"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "Nkozdx74Rtx",
 		"change": "removed definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "VJLMTeQV0Fl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "VJLMTeQV0Fl",
 		"change": "removed definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "V1yAxZ7NRFl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "V1yAxZ7NRFl",
 		"change": "removed definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "EyozGb7VAKx"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "EyozGb7VAKx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "BJKc071Sltf"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "BJKc071Sltf",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "V1n8fG7VCFl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "V1n8fG7VCFl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "ByDw7A47tW"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "ByDw7A47tW",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "Ey5eeuMmVRFl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "Ey5eeuMmVRFl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4JQ_RMm4CKx"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4JQ_RMm4CKx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "Vk7ZeHXXE0Ke"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "Vk7ZeHXXE0Ke",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "V1Q4sXmE0Kl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "V1Q4sXmE0Kl",
 		"change": "removed definition, added xref"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "VyeDSaQNAKg"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "VyeDSaQNAKg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "Ny2bOTQVAYx"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "Ny2bOTQVAYx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "B1AzxdO8QtZ"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "B1AzxdO8QtZ",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "VyMOxvrRag"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "VyMOxvrRag",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4kgBbvHCal"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4kgBbvHCal",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "Vk1znlVECKl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "Vk1znlVECKl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "E1lZXPBRal"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "E1lZXPBRal",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "NkHjZNV0tg"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "NkHjZNV0tg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "E19j9WN40tg"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "E19j9WN40tg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4kVFZzVE0Kl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4kVFZzVE0Kl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "V1BeOvucCpe"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "V1BeOvucCpe",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "rJ_vKp87KZ"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "rJ_vKp87KZ",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "V1qPo7QVRFl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "V1qPo7QVRFl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4ywv3mVCYe"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4ywv3mVCYe",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "EkaDU2QNCKx"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "EkaDU2QNCKx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "NJIwsZQE0Yl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "NJIwsZQE0Yl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "41wL6BmNCYx"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "41wL6BmNCYx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4yeLHLQ4AFg"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4yeLHLQ4AFg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "VJd1lz7VN0tl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "VJd1lz7VN0tl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "B1yoAawzF-"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "B1yoAawzF-",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "VJCoghQV0Fe"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "VJCoghQV0Fe",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "EyMey3-HATl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "EyMey3-HATl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "NJjyxFbQEAtx"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "NJjyxFbQEAtx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "BkFeUVgKG"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "BkFeUVgKG",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "ryRNw_8QYZ"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "ryRNw_8QYZ",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "VJ2GpxVNAKe"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "VJ2GpxVNAKe",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "EJK97WE4CFl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "EJK97WE4CFl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "V1a3-4ECtx"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "V1a3-4ECtx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "NJgjwuc06e"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "NJgjwuc06e",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "NkJ66zN4AFl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "NkJ66zN4AFl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4kqe9A-SAal"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4kqe9A-SAal",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "VJEgleB4NRFg"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "VJEgleB4NRFg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "NyRxVFbSC6x"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "NyRxVFbSC6x",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "NJxE4lQ4Atx"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "NJxE4lQ4Atx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "41Wb8D7VAtx"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "41Wb8D7VAtx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "N1GGomV0Ye"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "N1GGomV0Ye",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "Ekbqmi7EAKl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "Ekbqmi7EAKl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4k15gb5-4Val"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4k15gb5-4Val",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4kxsteENAte"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4kxsteENAte",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "BJ6VibI7t-"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "BJ6VibI7t-",
 		"change": "removed definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "SJ1hY_Imtb"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "SJ1hY_Imtb",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "EJxtJBVEAYe"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "EJxtJBVEAYe",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "H1KrKZUmFW"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "H1KrKZUmFW",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "EJBF-bEEAtx"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "EJBF-bEEAtx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "NJ9b3N7NCYe"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "NJ9b3N7NCYe",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "B18pwcUQFZ"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "B18pwcUQFZ",
 		"change": "removed definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4kvxgvEQECKe"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4kvxgvEQECKe",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "EJ-2XuQNCtg"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "EJ-2XuQNCtg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "VyL7zqmVRtl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "VyL7zqmVRtl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "NJF-gGQVAYe"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "NJF-gGQVAYe",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "EkIOyj7NAtl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "EkIOyj7NAtl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "NJFiETm4CYl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "NJFiETm4CYl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "S1Cvma87Kb"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "S1Cvma87Kb",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "VyaTaQEAYe"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "VyaTaQEAYe",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4yvTpZmVAKe"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4yvTpZmVAKe",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "Ey2f9I740tx"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "Ey2f9I740tx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "SkwudJUQF-"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "SkwudJUQF-",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "VJMR0dm4Ctl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "VJMR0dm4Ctl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "Vks_-97NCtl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "Vks_-97NCtl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "rkpnF687Y-"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "rkpnF687Y-",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4JymtNQVAtl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4JymtNQVAtl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "BklkjI7tb"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "BklkjI7tb",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4JY7kEmVRYl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4JY7kEmVRYl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "rkzRcRIQYW"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "rkzRcRIQYW",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "S1QUH787KZ"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "S1QUH787KZ",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "41OwuzNVCte"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "41OwuzNVCte",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "V1Bllsd7NCte"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "V1Bllsd7NCte",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "r1CjESLXY-"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "r1CjESLXY-",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "VJx8yjQERFe"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "VJx8yjQERFe",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4yWLL17VAtg"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4yWLL17VAtg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "V1hMNKm40Kl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "V1hMNKm40Kl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "EyBTjGENCYl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "EyBTjGENCYl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "EJKB_nQVRte"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "EJKB_nQVRte",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "NJdL7CX40tx"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "NJdL7CX40tx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "VkipffVECFe"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "VkipffVECFe",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "SJhQE6PfYW"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "SJhQE6PfYW",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4kl7qXmVAKe"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4kl7qXmVAKe",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "Sy_VW-cNXFW"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "Sy_VW-cNXFW",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "B1LNedcUXFZ"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "B1LNedcUXFZ",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "NJ24rE4ECtl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "NJ24rE4ECtl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "HyhArTSXF-"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "HyhArTSXF-",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4JQ-8n740Yl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4JQ-8n740Yl",
 		"change": "removed definitions"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4kuzMhXNRte"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4kuzMhXNRte",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4Jh86-XV0Yg"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4Jh86-XV0Yg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "VJTcF7VRFl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "VJTcF7VRFl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "Hy0_Kt58z"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "Hy0_Kt58z",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "VJOdRBQNCFx"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "VJOdRBQNCFx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "Ek54_z7ERte"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "Ek54_z7ERte",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "NyRxVFbSC6x"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "NyRxVFbSC6x",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "EJLUdf7VCFg"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "EJLUdf7VCFg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "EJxkg7NRtg"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "EJxkg7NRtg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "EyTSt-QECFl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "EyTSt-QECFl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "rk49wRVmYZ"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "rk49wRVmYZ",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "HkHllhAVQKW"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "HkHllhAVQKW",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "NJYFtkXNRYl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "NJYFtkXNRYl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4JFYJbm4Atl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4JFYJbm4Atl",
 		"change": "edited definitions"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "EJjliymV0Kl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "EJjliymV0Kl",
 		"change": "removed definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "Vk6hty7VAKg"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "Vk6hty7VAKg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "N15R1xQ40tx"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "N15R1xQ40tx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "EkGgagQ40tl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "EkGgagQ40tl",
 		"change": "removed definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "BklGlH6wMYb"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "BklGlH6wMYb",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "r1TRBpwMtb"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "r1TRBpwMtb",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "VJDxdyQNAKg"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "VJDxdyQNAKg",
 		"change": "removed extraneous definitions"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "EkuMjJ7N0Yg"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "EkuMjJ7N0Yg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "SJzD5dGsiG"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "SJzD5dGsiG",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "ByB9eCvGYZ"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "ByB9eCvGYZ",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "S1iDxm0VQYb"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "S1iDxm0VQYb",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "E1TBFGm40tg"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "E1TBFGm40tg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "Bkh1e1ySQYZ"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "Bkh1e1ySQYZ",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "EkYsSmXNRtl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "EkYsSmXNRtl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "N1yXQ6m4Atg"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "N1yXQ6m4Atg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "NJfKzaXNAte"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "NJfKzaXNAte",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "EJjBnZS0Tl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "EJjBnZS0Tl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4kbDHTQECYx"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4kbDHTQECYx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "NJzHrTXN0Kl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "NJzHrTXN0Kl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "ryuWTvI7tW"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "ryuWTvI7tW",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "r1HNgOIQK-"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "r1HNgOIQK-",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "EJGa3aQERYg"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "EJGa3aQERYg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "BJIzV_LXFb"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "BJIzV_LXFb",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "V1zVQ07NCFx"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "V1zVQ07NCFx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "H1raPdI7KZ"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "H1raPdI7KZ",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "EykfkzVV0Fe"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "EykfkzVV0Fe",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "NkzXlz4VAFg"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "NkzXlz4VAFg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "BJctgK9LG"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "BJctgK9LG",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "BkUd_TPGYb"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "BkUd_TPGYb",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "BkvMdawztZ"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "BkvMdawztZ",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "Ek-oSk7V0Kg"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "Ek-oSk7V0Kg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "VJSkgrkQN0tl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "VJSkgrkQN0tl",
 		"change": "removed extraneous definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "EysnUk74CYl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "EysnUk74CYl",
 		"change": "removed extraneous definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "NkqGPk7VCKe"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "NkqGPk7VCKe",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "EkmcPJQVAKe"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "EkmcPJQVAKe",
 		"change": "removed definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4kL-f2n9Rae"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4kL-f2n9Rae",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4k5u2kXEAFl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4k5u2kXEAFl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "Vk-61lQNCKg"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "Vk-61lQNCKg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4JhegemECtx"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4JhegemECtx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "EySfme7NAYg"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "EySfme7NAYg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "SJiZl06DfF-"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "SJiZl06DfF-",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "V1vF8gmE0Ke"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "V1vF8gmE0Ke",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "41hfvl7N0Kx"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "41hfvl7N0Kx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "Vkjxdx7ERtx"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "Vkjxdx7ERtx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4kLCaxmERFx"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4kLCaxmERFx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4J4TJWmEAtg"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4J4TJWmEAtg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "VJk1gx-mECKe"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "VJk1gx-mECKe",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "NJzExmbmVRKg"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "NJzExmbmVRKg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4khexNW7VRYg"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4khexNW7VRYg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "VyNYB-7N0tg"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "VyNYB-7N0tg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4yC8L-Q4AFe"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4yC8L-Q4AFe",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "S11kg0jgSF-"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "S11kg0jgSF-",
 		"change": "removed definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "Ny5VYWmVRKl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "Ny5VYWmVRKl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "B1VKzUosz"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "B1VKzUosz",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "Ey3jWmEAte"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "Ey3jWmEAte",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4JYPh-m4RKe"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4JYPh-m4RKe",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "VyBlCbXN0tg"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "VyBlCbXN0tg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "41-zQECFe"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "41-zQECFe",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "SkBfZ7C4Qtb"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "SkBfZ7C4Qtb",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "rJLYz8soz"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "rJLYz8soz",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "VJoXnfQV0Ke"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "VJoXnfQV0Ke",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "S1keFz8soG"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "S1keFz8soG",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "S1EMTAVXYZ"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "S1EMTAVXYZ",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "E1CWh2nc0pl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "E1CWh2nc0pl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "VJnW333qCTx"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "VJnW333qCTx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "NyncxXXERYx"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "NyncxXXERYx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "Syp811HmYb"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "Syp811HmYb",
 		"change": "edited definitions"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "VJ5xeZmQERtx"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "VJ5xeZmQERtx",
 		"change": "removed definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "EkRczX7VAtg"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "EkRczX7VAtg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "EJzczQ74RKg"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "EJzczQ74RKg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4JcZXXmERYl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4JcZXXmERYl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "EyOvVX7V0Fl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "EyOvVX7V0Fl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4J90Em7N0tx"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4J90Em7N0tx",
 		"change": "removed definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "Nya8S774AKg"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "Nya8S774AKg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "EJqDr7mNCFg"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "EJqDr7mNCFg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "EyUmXN0Kx"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "EyUmXN0Kx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "V1eQxs774CFg"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "V1eQxs774CFg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "Nkxegj7XNAtg"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "Nkxegj7XNAtg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "VkE_2QQ4CKx"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "VkE_2QQ4CKx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "41_z3XX40Yl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "41_z3XX40Yl",
 		"change": "edited definition, added xref"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4kdN3QQV0Kx"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4kdN3QQV0Kx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4kFzxp77VCFl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4kFzxp77VCFl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "Vk7aCQ74CYg"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "Vk7aCQ74CYg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "HJB2NnNXKZ"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "HJB2NnNXKZ",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "BkTzYGsoM"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "BkTzYGsoM",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "Ny0xQ4X40tg"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "Ny0xQ4X40tg",
 		"change": "removed definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "NkN78NQERKl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "NkN78NQERKl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "N1b7_NX4Ctx"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "N1b7_NX4Ctx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "ryL-Vq4Qtb"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "ryL-Vq4Qtb",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "HJ4ilqN7FZ"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "HJ4ilqN7FZ",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "41A9-SQE0Fl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "41A9-SQE0Fl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4JwJefrmERtl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4JwJefrmERtl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "Ey3glwH740Fx"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "Ey3glwH740Fx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "NyalxwBmNAtx"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "NyalxwBmNAtx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "E1JgdrmVRYe"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "E1JgdrmVRYe",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "N1svOS74Rtl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "N1svOS74Rtl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4yhseImNAte"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4yhseImNAte",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "N1IeG87VAYx"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "N1IeG87VAYx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "N1aWf8mV0Fx"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "N1aWf8mV0Fx",
 		"change": "edited definitions"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "EJ4rzL7N0te"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "EJ4rzL7N0te",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "VJti7LQEAKl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "VJti7LQEAKl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "VJ4npu0ag"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "VJ4npu0ag",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "EyoWAUmVRYx"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "EyoWAUmVRYx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "412-bPX4CKg"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "412-bPX4CKg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "E1lS2auR6x"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "E1lS2auR6x",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "412-bPX4CKg"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "412-bPX4CKg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "Vk9gvwm4Ctl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "Vk9gvwm4Ctl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "HkK2RjrmFb"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "HkK2RjrmFb",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "V1t-LvXECtg"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "V1t-LvXECtg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "VJaWePPXNRYg"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "VJaWePPXNRYg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "EkT_9wmEAFe"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "EkT_9wmEAFe",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "41O0iPXNAKe"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "41O0iPXNAKe",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "NkjCov7E0Yx"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "NkjCov7E0Yx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "41b8h6dCpg"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "41b8h6dCpg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "41IHTwQN0Fx"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "41IHTwQN0Fx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "EJeneu7NRtl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "EJeneu7NRtl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "V1Fl7u7EAFl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "V1Fl7u7EAFl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4yHsf_7E0Yl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4yHsf_7E0Yl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "HyuNgr6BXYb"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "HyuNgr6BXYb",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "Eybs7u7ECtl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "Eybs7u7ECtl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "E1AhX_mNCtx"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "E1AhX_mNCtx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "41T72ncRpx"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "41T72ncRpx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "BJa7oaIXYb"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "BJa7oaIXYb",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "NyH3a_A6x"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "NyH3a_A6x",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4JbBUuX40Yg"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4JbBUuX40Yg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "rJfDVJUmtW"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "rJfDVJUmtW",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "EyUidOQVAKl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "EyUidOQVAKl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "E1eI9u7NAYe"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "E1eI9u7NAYe",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "N1MKs_7VAtl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "N1MKs_7VAtl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "E1u_idmVRFe"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "E1u_idmVRFe",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "EyGAnOmNCFg"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "EyGAnOmNCFg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "41f7etXNCte"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "41f7etXNCte",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "NyeZgdtmVAKx"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "NyeZgdtmVAKx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "VyXX5tQVCKe"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "VyXX5tQVCKe",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "N1zyehKmVRYl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "N1zyehKmVRYl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4y3y574CKx"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4y3y574CKx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "41lcQ4RKx"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "41lcQ4RKx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4J9Ql5mERKl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4J9Ql5mERKl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "VJvUW5X4AYl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "VJvUW5X4AYl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4yxfF5QVAFx"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4yxfF5QVAFx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "EJLAjqmNCte"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "EJLAjqmNCte",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "NybJli974CYl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "NybJli974CYl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "413s6c7VCKe"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "413s6c7VCKe",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "E1r0T9mVRYg"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "E1r0T9mVRYg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "NksPRqXVRYe"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "NksPRqXVRYe",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4yks8jQ4RYg"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4yks8jQ4RYg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "NkN8DsXN0Yl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "NkN8DsXN0Yl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "VyG5ioXERYx"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "VyG5ioXERYx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "NJpI2oQVRYe"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "NJpI2oQVRYe",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4yfXpomE0Fx"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4yfXpomE0Fx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4yvAy2QECFx"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4yvAy2QECFx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "NyG-3X4Ctg"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "NyG-3X4Ctg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4kuzMhXNRte"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4kuzMhXNRte",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "E17X727NRFl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "E17X727NRFl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4yMUP3mECtx"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4yMUP3mECtx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "VkaWxDn74RKe"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "VkaWxDn74RKe",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "EJjiwnXEAFg"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "EJjiwnXEAFg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "VJHtn7NRYl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "VJHtn7NRYl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "NJ7iO3XNCtl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "NJ7iO3XNCtl",
 		"change": "edited definitions"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "B10bQrL7FW"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "B10bQrL7FW",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "rkXqESIQFb"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "rkXqESIQFb",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "Vy-lj37VCKg"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "Vy-lj37VCKg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "VyXfz6Q4CYe"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "VyXfz6Q4CYe",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4J67EaXN0Fl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4J67EaXN0Fl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "NJnLa740Kg"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "NJnLa740Kg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "HJg3eawL7Y-"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "HJg3eawL7Y-",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "rkZgQIosz"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "rkZgQIosz",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "VylZ2pXECKe"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "VylZ2pXECKe",
 		"change": "removed definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4klJeTpmV0Fx"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4klJeTpmV0Fx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "EkaAaQE0tx"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "EkaAaQE0tx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "VJ1vA6QE0Yx"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "VJ1vA6QE0Yx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "SkfgmIsiM"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "SkfgmIsiM",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "Ek6EkR7E0Fg"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "Ek6EkR7E0Fg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "EJLd-AmNCKe"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "EJLd-AmNCKe",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "Nk82P0Q4CFl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "Nk82P0Q4CFl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4yNXF0X4AKg"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4yNXF0X4AKg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "E1Kft0mEAYl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "E1Kft0mEAYl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "V1ykg50XE0tl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "V1ykg50XE0tl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4JB7sRQVCFx"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4JB7sRQVCFx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4yI9iCmECKg"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4yI9iCmECKg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "Nk2XnR7VCtl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "Nk2XnR7VCtl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "NyCFe1EE0Fl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "NyCFe1EE0Fl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "Ny-gV14E0Kl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "Ny-gV14E0Kl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "By0pw5LXKb"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "By0pw5LXKb",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "SJnCd987FW"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "SJnCd987FW",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4yUl0Ud5R6l"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4yUl0Ud5R6l",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "E16oFyVVAKl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "E16oFyVVAKl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "413N5kE4Atx"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "413N5kE4Atx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "HkIG5cLmFW"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "HkIG5cLmFW",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "EyXo2y44Ate"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "EyXo2y44Ate",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "N1m7ggDrRpl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "N1m7ggDrRpl",
 		"change": "removed definitions"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "HyiMczjoG"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "HyiMczjoG",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "HJWlihUQtZ"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "HJWlihUQtZ",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4JUPmxE4AKg"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4JUPmxE4AKg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4JOWgbvr0pg"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4JOWgbvr0pg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4JHll4lVV0Fl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4JHll4lVV0Fl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "EJlbrlNN0Yl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "EJlbrlNN0Yl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "EJvaYgN4AKg"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "EJvaYgN4AKg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4yRpslNV0Kx"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4yRpslNV0Kx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "N1JX6xVV0Kl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "N1JX6xVV0Kl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4y-x0eN4CFl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4y-x0eN4CFl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "rJu8lC2LmY-"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "rJu8lC2LmY-",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4JTzDBC6x"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4JTzDBC6x",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "singer"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "singer",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "E1mO7bVNCYg"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "E1mO7bVNCYg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "VkSO4bNEAte"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "VkSO4bNEAte",
 		"change": "removed definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "VJQgeN-NN0Ye"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "VJQgeN-NN0Ye",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "NkUtPWNNAYe"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "NkUtPWNNAYe",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "EJVKw-VERFg"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "EJVKw-VERFg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "EJLebDrAax"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "EJLebDrAax",
 		"change": "removed definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4yHRTZNN0tl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4yHRTZNN0tl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4JvxyMVNAKl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4JvxyMVNAKl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4kxNgGNNAFx"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4kxNgGNNAFx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4yabwHATl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4yabwHATl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4JjY-z4EAte"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4JjY-z4EAte",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "VJy4VMVECYg"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "VJy4VMVECYg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "rJgQmUjsM"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "rJgQmUjsM",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "S1kJxP6LmFZ"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "S1kJxP6LmFZ",
 		"change": "removed definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "Nke7MDrA6e"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "Nke7MDrA6e",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4JMWsGVEAYx"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4JMWsGVEAYx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4k1YhGE4RYe"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4k1YhGE4RYe",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "ryWmQUsoz"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "ryWmQUsoz",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4yagxWwrCag"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4yagxWwrCag",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "EJHtWPBR6e"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "EJHtWPBR6e",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "Vke1l2M4VRKl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "Vke1l2M4VRKl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "HyGQX8ssM"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "HyGQX8ssM",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "Ny6KGQVNCFe"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "Ny6KGQVNCFe",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "EyQq7m4E0Ye"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "EyQq7m4E0Ye",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "VkMylXXEERFe"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "VkMylXXEERFe",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "VJiwEXVERYl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "VJiwEXVERYl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "NkfI_XNNCFl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "NkfI_XNNCFl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "V1QIjQNVRtl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "V1QIjQNVRtl",
 		"change": "removed definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "N1cn2XV40tl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "N1cn2XV40tl",
 		"change": "removed definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "NJVYyNE40tl"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "NJVYyNE40tl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "VkuwUVVE0Yg"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "VkuwUVVE0Yg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "4kcMtNV4CKe"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "4kcMtNV4CKe",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "N1QctNVERFx"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "N1QctNVERFx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "BJW7UFFcLf"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "BJW7UFFcLf",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "Ny2B2VNNCte"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "Ny2B2VNNCte",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "VkRNV4AFx"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "VkRNV4AFx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "Vk9e0NV40Yx"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "Vk9e0NV40Yx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "41V9CV440Yx"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "41V9CV440Yx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "EyKD1rVERtg"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "EyKD1rVERtg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-30T23:44:43+00:00"
-		"entry": "VJhGx4H4EAYx"
+		"date": "2018-05-30T23:44:43+00:00",
+		"entry": "VJhGx4H4EAYx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-31T23:44:43+00:00"
-		"entry": "rJRwBaDMYb"
+		"date": "2018-05-31T23:44:43+00:00",
+		"entry": "rJRwBaDMYb",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-31T23:44:43+00:00"
-		"entry": "N1Bj-lX4AKl"
+		"date": "2018-05-31T23:44:43+00:00",
+		"entry": "N1Bj-lX4AKl",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-31T23:44:43+00:00"
-		"entry": "NyRxVFbSC6x"
+		"date": "2018-05-31T23:44:43+00:00",
+		"entry": "NyRxVFbSC6x",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-31T23:44:43+00:00"
-		"entry": "VyAGja7EAFx"
+		"date": "2018-05-31T23:44:43+00:00",
+		"entry": "VyAGja7EAFx",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-31T23:44:43+00:00"
-		"entry": "E1KexGEN4AYg"
+		"date": "2018-05-31T23:44:43+00:00",
+		"entry": "E1KexGEN4AYg",
 		"change": "edited definition"
 	},
 	{
-		"date": "2018-05-31T23:44:43+00:00"
-		"entry": "4yn_xrNEAYx"
+		"date": "2018-05-31T23:44:43+00:00",
+		"entry": "4yn_xrNEAYx",
 		"change": "edited definition"
-	},
+	}
 ]
 	
 	
