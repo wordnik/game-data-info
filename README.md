@@ -9,8 +9,8 @@ This changelog shows the entry record that was changed, the date of the change, 
 
 ````json
 {
-  "date": "2018-05-28T23:44:43+00:00"
-  "entry": "Vyoexz4XVRtx"
+  "date": "2018-05-28T23:44:43+00:00",
+  "entry": "Vyoexz4XVRtx",
   "change": "changed fullwidth semicolon to standard semicolon"
 }
 ````
